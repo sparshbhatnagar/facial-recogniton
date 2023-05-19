@@ -1,0 +1,15 @@
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+    border-radius: 30%;
+}
+#gif{
+    width: 100px;
+    height: 100px;
+}
+#Sui{
+    height: 50px;
+    width: 100px;
+    font-size: smaller;
+}
